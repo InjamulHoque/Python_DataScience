@@ -91,7 +91,7 @@ This project is distributed under the terms of the GPL 3.0 license.  The license
 Authors and history
 ---------------------------
 
-The author name of this repository is Injamul Hoque. He is a data science practitioner. He recently made a DS roadmap and this repository is a part of his learning according to the roadmap.
+The author name of this repository is Injamul Hoque. He is a data science practitioner. He recently made a DS roadmap. According to the roadmap, he is pursing the IBM data science career path, and his main goal is to play a vital role as a data scientist in any top-notch tech company like Google, Microsoft, Amazon, or IBM etc.
 
 Acknowledgments
 ---------------
