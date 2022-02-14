@@ -4,7 +4,7 @@ Python for Datascience, AI and Development
 This repo arranged with a bunch of substantially important Jupyter Notebooks which contained the whole basics to advanced python for Data Science, AI, and Development, and also developed a project on “Speech to Text analysis”. This repo is based on the course “Python for Data Science, AI & Development”, offered by IBM.
 
 
-[![GitHub license](https://img.shields.io/github/license/InjamulHoque/Python_Datascience?color=yellow&style=flat-square)](https://github.com/InjamulHoque/Python_Datascience)
+[![GitHub license](https://img.shields.io/github/LICENSE.md/InjamulHoque/Python_Datascience?color=yellow&style=flat-square)](https://github.com/InjamulHoque/Python_Datascience)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Injamulhoque_ds?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/InjamulHoque/Python_Datascience?label=Python_Datascience&style=social)
 
