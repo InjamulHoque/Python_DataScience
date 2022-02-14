@@ -85,7 +85,7 @@ Anyone can contribute, copy, and clone this project.
 License
 -------
 
-This project is distributed under the terms of the MIT license.  The license applies to this project in the [GitHub repository](https://github.com/InjamulHoque/Python_Datascience).
+This project is distributed under the terms of the GPL 3.0 license.  The license applies to this project in the [GitHub repository](https://github.com/InjamulHoque/Python_Datascience).
 
 
 Authors and history
